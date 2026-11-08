@@ -1,0 +1,8 @@
+id,item,fr_ids,priority,points,owner,acceptance_criteria
+B-01,Project skeleton with CI,-,Must,3,A,"Given a clone, when mvnw verify runs, then green"
+B-02,Register with email and role,FR-A1,Must,3,B,"Given valid data, when I register, then I can log in"
+B-03,Authenticate with email and password,FR-A2,Must,5,C,"Given valid credentials, when I log in, then a JWT session token is returned"
+B-04,Role-based access control for instructor and student,FR-A3,Must,3,D,"Given a student token, when accessing instructor endpoints, then response is 403 Forbidden"
+B-05,Create quiz with title and description,FR-Q1,Must,5,A,"Given an instructor login, when I submit quiz details, then a new quiz draft is saved"
+B-06,Add questions and reorder with buttons,FR-Q2,Must,8,B,"Given a quiz draft, when I add options and click move up, then question order updates correctly"
+B-07,Configure per-question timer and correct answer,FR-Q3,Must,3,C,"Given a question draft, when I set duration and mark the correct option, then settings are saved"
