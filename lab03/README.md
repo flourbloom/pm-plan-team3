@@ -9,15 +9,15 @@ The sponsor (Head of IT) controls the project through four formal stage gates: G
 
 | File                             | Description                                                                                   |
 | -------------------------------- | --------------------------------------------------------------------------------------------- |
-| `project-profile.md`           | Task 1: Project characteristics, weighted selection criteria and profile score.               |
-| `approach-comparison.md`       | Task 2: Comparison of Waterfall, Pure Scrum and Hybrid approaches.                            |
-| `approach-scoring.csv`         | Task 2: Weighted scoring calculations and approach rankings.                                  |
-| `tailoring-decision-record.md` | Task 3: Methodology decision, consequences, tailoring and phase gate definitions.             |
-| `life-cycle.mmd`               | Task 3: Mermaid Gantt diagram showing the 14-week hybrid life cycle.                          |
-| `life-cycle.svg`               | Task 3: Exported visual version of the project life cycle.                                    |
-| `scrum-setup.md`               | Task 4: Scrum roles, sprint goal, event calendar, Definition of Ready and Definition of Done. |
-| `sprint-1-backlog.csv`         | Task 4: Seven Must-priority backlog items with estimates and acceptance criteria.             |
-| `governance.md`                | Task 5: Stage gate checklists, tolerances, reporting, escalation and closure criteria.        |
+| lab03/project-profile.md           | Task 1: Project characteristics, weighted selection criteria and profile score.               |
+| lab03/approach-comparison.md       | Task 2: Comparison of Waterfall, Pure Scrum and Hybrid approaches.                            |
+| lab03/approach-scoring.csv         | Task 2: Weighted scoring calculations and approach rankings.                                  |
+| lab03/tailoring-decision-record.md | Task 3: Methodology decision, consequences, tailoring and phase gate definitions.             |
+| lab03/life-cycle.mmd               | Task 3: Mermaid Gantt diagram showing the 14-week hybrid life cycle.                          |
+| lab03/life-cycle.svg               | Task 3: Exported visual version of the project life cycle.                                    |
+| lab03/scrum-setup.md               | Task 4: Scrum roles, sprint goal, event calendar, Definition of Ready and Definition of Done. |
+| lab03/sprint-1-backlog.csv         | Task 4: Seven Must-priority backlog items with estimates and acceptance criteria.             |
+| lab03/governance.md                | Task 5: Stage gate checklists, tolerances, reporting, escalation and closure criteria.        |
 
 ## Inputs reused
 

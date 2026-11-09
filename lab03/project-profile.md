@@ -9,12 +9,12 @@ Sources: [charter](../lab01/project-charter.md), [MoSCoW list](../lab02/moscow-l
 | 3   | Team experience with agile           | Team 3 is students with no recorded sprint practice; a lecturer acts as PM                |     15 |         3 |    45 |
 | 4   | Contract and governance constraints  | Sponsor, data protection officer and security team must approve; VPS run by IT operations |     10 |         4 |    40 |
 | 5   | Need for early delivery and feedback | MVP demo in week 7 and a 50-student pilot in week 14                                      |     15 |         5 |    75 |
-|     | **Profile** = SUM(W x S) / 100       | (40+100+45+40+75)/100                                                                     |    100 |           |     3 |
+|     | **Profile** = SUM(W x S) / 100       | (40+100+45+40+75)/100                                                                     |    100 |           |  **3.00** |
 | 6   | (optional) Sponsor availability      | Head of IT can plausibly review an increment every two weeks (to confirm)                 |      - |         4 |     - |
 
 Score 1-5: 1 = the fact favours predictive, 5 = it favours adaptive.
 
-Interpretation: < 2.5 predictive · 2.5-3.5 hybrid · > 3.5 agile
+Interpretation: < 2.5 predictive · 2.5-3.5 hybrid · > 3.5 agile -> **hybrid band**
 
 ## Profile summary
 
